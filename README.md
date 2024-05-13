@@ -1,4 +1,4 @@
-# Learning Managment System
+# Learning Management System
 
 ## Step 1: Project Setup
 
